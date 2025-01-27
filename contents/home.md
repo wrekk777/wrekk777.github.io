@@ -1,8 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/wrekk777-github-blue?logo=github)](https://github.com/wrekk777)
+[![wrekk777](https://img.shields.io/badge/wrekk777-github-blue?logo=github)](https://github.com/wrekk777)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Warren is a local government practitioner working on housing affordability in Charlotte, North Carolina. He is also pursuing his PhD in Public Policy at UNC Charlotte. 
 
 #### Email
 twoote13[at]charlotte.edu
