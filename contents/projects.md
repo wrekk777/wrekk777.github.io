@@ -11,6 +11,6 @@
 
   <div style="flex: 1;">
     **Right Column**  
-    More text here that appears to the right...
+    ![Alt text](/static/assets/img/rougemont.jpg "Rougemont Water Project")
   </div>
 </div>
