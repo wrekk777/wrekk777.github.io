@@ -1,4 +1,16 @@
-<bold> Rougemont Water Project </bold>
+<strong> Rougemont Water Project </strong>
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+[Rougemont Project Details](https://www.epa.gov/sites/default/files/2016-10/documents/rougemontncsept2016-10-12-16.pdf)
 
+<div style="display: flex; gap: 1rem;">
+  <div style="flex: 1;">
+    **Left Column**  
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+    Etiam rutrum, neque eu viverra rhoncus...
+  </div>
+
+  <div style="flex: 1;">
+    **Right Column**  
+    More text here that appears to the right...
+  </div>
+</div>
