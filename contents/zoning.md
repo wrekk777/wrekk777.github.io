@@ -8,10 +8,10 @@ This independent study explores the structure, function, and variation of land u
 <iframe 
   src="https://127wt3-warren-wooten.shinyapps.io/timeline/" 
   width="95%" 
-  height="600" 
+  height="400" 
   style="border:1px solid #ccc;">
 </iframe>
-<br/>
+
 **Weekly Notes & Progress**
 <br/>
 *Week of Sept 7th*
