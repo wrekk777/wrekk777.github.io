@@ -9,7 +9,7 @@
   </div>
   <div style="flex: 1;">
     <strong>Zoning and Land Use in the U.S.: History, Theory, and Regional Variation</strong><br/>
-    <a href="https://github.com/wrekk777/wrekk777.github.io/edit/main/contents/zoning.md" target="_blank">
+    <a href="https://wrekk777.github.io/zoning" target="_blank">
       Independent Study Page
     </a>
   </div>
