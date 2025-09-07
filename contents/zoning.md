@@ -7,7 +7,7 @@ This independent study explores the structure, function, and variation of land u
 ***Week of Sept 7th***
 
 
-**Files**
+**Files**<br/>
 [Syllabus](./contents/Independent%20Study%20-%208800%20Wooten.pdf)
 
 
