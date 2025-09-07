@@ -11,6 +11,6 @@ Warren has dedicated his career to neighborhood revitalization, bringing over tw
 
 
 **Files**
-[Syllabus](./contents/wooten_bio.pdf)
+[Syllabus](./contents/Independent Study - 8800 Wooten.pdf)
 
 
