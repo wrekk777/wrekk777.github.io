@@ -7,7 +7,7 @@
     
  
   </div>
-
+<div style="display: flex; gap: 1rem;">
   <div style="flex: 1;">
      <strong> Zoning and Land Use in the U.S.: History, Theory, and Regional Variation </strong>
     [Independent Study Page](https://github.com/wrekk777/wrekk777.github.io/edit/main/contents/zoning.md)
