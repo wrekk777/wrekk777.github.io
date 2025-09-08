@@ -12,5 +12,7 @@ M.P.A, Public Administration, NC State University, 2009.\
 B.A., Integrated Studies - Humanities, George Mason University, 2001.
 
 #### Research Interests
-
+Affordable Housing, Tax Credit Development
+Zoning & Land Use
+International Comparative Housing Finance & Development
 
