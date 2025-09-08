@@ -15,6 +15,8 @@ This independent study explores the structure, function, and variation of land u
 **Weekly Notes & Progress**
 <br/>
 *Week of Sept 7th*
+This week I have started with the first two chapter's of Nancy Burn's work, the Formation of American Local Governments. The purpose of this study is to understand land use in the United States, to do so requires an understanding of the instutions that hold the power to regulate and enforce land use and zoning restrictions. Burns identifies two types of local governments, muncipalities and special districts. <br/>
+Burns distingushes between the two, special districts are geographically overlapping other political boundries, typically single use or holding a few powers, and can be established by a small group of well resourced individuals or groups. Municipalities are geographically defined in ways that do not overlap other municipalities, hold a broad range of power and require a large group of people working together to form. What I found most interesting about government formation is the reasoning behind it, speaking of special districts (but I think can be applied to muncipalities as well) Burns writes "These formations are not simply technical financing maneuvers. They are instead implicit decisions about who pays for development in the United States. Burns goes on to discuss how city formation itself throughout much of the United States is a speculatory and entrepreneurial activites. Cities and the services they provide were valued by residents who were willing to pay higher land prices to live in them. 
 <br/>
 **Files**<br/>
 [Syllabus](./contents/Independent%20Study%20-%208800%20Wooten.pdf)
