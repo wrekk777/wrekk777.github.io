@@ -14,6 +14,9 @@ This independent study explores the structure, function, and variation of land u
 
 **Weekly Notes & Progress**
 <br/>
+*Weeks of Sept 29th & Oct 6th*
+<br/>
+Text here. <br/>
 *Weeks of Sept 14th & 22nd*
 <br/>
 This week, I am reading "Home, Sweet Home: American Residential Zoning in Comparative Perspective" by Sonia Hirt and chapter 3 of Burns. I have also done some preliminary work identifying additional candidate papers for a literature review.<br/>
