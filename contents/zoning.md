@@ -16,7 +16,7 @@ This independent study explores the structure, function, and variation of land u
 <br/>
 *Week of Oct 13*
 <br/>
-This week I have been working through sections of Edward Glaeser's work, Triumph of the City. Glaeser makes the argument that the things we like least about cities.  <br/>
+This week I have been working through sections of Edward Glaeser's work, Triumph of the City. Glaeser makes the argument that the things we like least about cities, traffic, overcrowding, and pollution, are evidence that cities actually are contributors to human improvement.   <br/>
 *Weeks of Sept 29th & Oct 6th*
 <br/>
 Text here. <br/>
