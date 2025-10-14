@@ -14,6 +14,9 @@ This independent study explores the structure, function, and variation of land u
 
 **Weekly Notes & Progress**
 <br/>
+*Week of Oct 13*
+<br/>
+Text here. <br/>
 *Weeks of Sept 29th & Oct 6th*
 <br/>
 Text here. <br/>
